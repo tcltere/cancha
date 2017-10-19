@@ -1,0 +1,56 @@
+ .cancha{
+	width: 700px;
+	background-color: #1f4c1d;
+	height: 400px;
+}
+.cuadrado{
+	border: 3px solid #fff;
+	width: 600px;
+	height: 300px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+}
+.arco1{
+	border: 3px solid #fff;
+	width: 50px;
+	height: 130px;
+	position:absolute;
+	top: 140px;
+	left:50px;
+}
+.arco2{
+	border: 3px solid #fff;
+	width: 50px;
+	height: 130px;
+	position:absolute;
+	bottom: 420px;
+	left: 600px;
+}
+.pelota{
+	border: 3px solid #fff;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
+	position: absolute;
+	left: 290px;
+	top:150px;
+}
+.ball1{
+	position: absolute;
+	top: 140px;
+	left: 95px;
+}
+.ball2{
+	position: absolute;
+	top: 140px;
+	left: 360px;
+}
+.ball3{
+	position: absolute;
+	top: 260px;
+	left: 600px;
+}
+
+}
